@@ -56,7 +56,7 @@
 ![](Screenshots/addAll.png/) 
     - Added all the new and modifiled files to staged area
 
-## git commit
+## 6. git commit
 
     Command is used to commit the snapshot of the staged area.
 
@@ -69,6 +69,49 @@
 >***Result:***
 
 
+## 7. git log
+    Display the entire commit history for the current repository.
+
+***Example***
+
+    git log
+
+>***Result:***
+
+## 8. git diff
+    Command is used to disaply the unstaged changes your index and working directory.
+
+***Example***
+
+    git diff
+    git diff [file_name]        # onlt changes to specific file
+
+>***Result:***
+
+
+## 9. git branch 
+    List all of the branched in current repository. 
+
+    git branch <branch_name>     # Used to created new branch with name 'branch name'
+
+***Example**
+
+    git branch              # Lisf of all branches
+
+    git branch TestBranch   # TestBranch is created
+
+>***Result:***
+
+
+
+## 10. git checkout <branch_name>
+    Switch from current branch to another branch
+
+***Example***
+
+    git checkout TestBranch
+
+>***Result:***
 
 
 
