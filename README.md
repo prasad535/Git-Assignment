@@ -5,5 +5,4 @@ Above command is used to show the untracked and modified files in working direct
 
 >Example
 
-  ![](/Screenshots/README/2022-10-12-08-34-38.png)clear
-  
+  ![](/Screenshots/2022-10-12-08-37-04.png)
