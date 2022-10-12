@@ -27,6 +27,7 @@
 
     git config user.name 'Prasad Nagineni'
         - Author defined as Prasad Nagineni
+
     git config user.email 'prasad.nagineni12345@gmail.com
         - configured author email address
 
@@ -110,6 +111,58 @@
 ***Example***
 
     git checkout TestBranch
+
+>***Result:***
+
+
+## 11. git merge
+    Used to merge two branches.
+
+***Example***
+
+    git merge TestBranch        # Merging TestBranch with main/master branch
+
+>***Result:***
+
+
+## 12. git revert 
+    Create a new commit that undoes the all the changes made in given commit
+
+***Example***
+
+    git revert HEAD             # undoes the changes of latest commit
+
+    git revert [commit_id]      # undoes the changes of mentioned commitID
+
+>***Result***
+
+
+## 13. git remote add <name> <url>
+    Create a new connection to a remote repo. After adding a remote, you can use <name> as a shortcut for <url> in other commands.
+
+***Example***
+
+    git remote upstream https://repo_here
+
+>***Result***
+
+
+## 14. git pull
+    Command used to retrive the latest changes in the repository done by other people.
+
+***Example**
+
+    git pull
+
+>***Result:***
+
+
+## 15. git push 
+    Command is used to push the changes from remote repository to Git repo. 
+
+***Example**
+
+    git push origin main
 
 >***Result:***
 
