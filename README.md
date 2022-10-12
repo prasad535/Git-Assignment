@@ -1,14 +1,8 @@
-Welcome to Git Commands basics
+## Welcome to Git Commands 
 
-## git --version 
-This is used to check the git software version in system.
-### output
-git --version
-git wwindows 20.02 
-image.png
+>### 1. Git Status
+Above command is used to show the untracked and modified files in working directory.
+- Example
+<p align='center'><img alt='VS code in action' src="G:\IndustryReadyProject\Git-Assignment\Screenshots\version.JPG"></p>
 
-## git status
-This is to check the status of the repository (untracked and modified files)
-### Example 
-git status 
-1 untracked file
+
