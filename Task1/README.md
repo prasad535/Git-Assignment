@@ -8,7 +8,7 @@
     git init
 
 > ***Result:***
-![](Screenshots/init.png/)
+![](/./Screenshots/init.png)
 
 ## 2. git clone [url]
     clone repo located at [url] onto local machine. Original repo can be located on the local filesystem or on remote machine via HTTP or SSH
@@ -18,7 +18,7 @@
     git clone 
 
 > ***Result:***
-![](Screenshots/clone.png/)
+![](/./Screenshots/clone.png)
 
 ## 3. git config
     Defining author name to be used for all commits in current repository and used to define email address of the author.
@@ -32,7 +32,7 @@
         - configured author email address
 
 > ***Result:***
-
+![](/./Screenshots/config.png)
 
 ## 4. git Status 
     Above command used to show the untracked or modified files in current working directory. 
@@ -42,7 +42,7 @@
     git status
 
 > ***Result:***
-![](Screenshots/status.png/)
+![](/./Screenshots/status.png)
 
 ## 5. git add [file_name]
     Command is used to add the files to staged area. 
@@ -52,9 +52,9 @@
     git add test.txt   # adding file test.txt to staged area
 
 > ***Results:***
-![](Screenshots/add.png/)
+![](/./Screenshots/add.png)
     - Added test.txt to staged area
-![](Screenshots/addAll.png/) 
+![](/./Screenshots/addAll.png)
     - Added all the new and modifiled files to staged area
 
 ## 6. git commit
@@ -68,7 +68,7 @@
     git commit -m 'This is my first commit'
 
 >***Result:***
-
+![](/./Screenshots/commit.png)
 
 ## 7. git log
     Display the entire commit history for the current repository.
@@ -78,7 +78,7 @@
     git log
 
 >***Result:***
-
+![](/./Screenshots/log.png)
 ## 8. git diff
     Command is used to disaply the unstaged changes your index and working directory.
 
@@ -88,7 +88,7 @@
     git diff [file_name]        # onlt changes to specific file
 
 >***Result:***
-
+![](/./Screenshots/diff.png)
 
 ## 9. git branch 
     List all of the branched in current repository. 
@@ -102,8 +102,8 @@
     git branch TestBranch   # TestBranch is created
 
 >***Result:***
-
-
+![](/./Screenshots/branch.png)
+![](/./Screenshots/newbranch.png)
 
 ## 10. git checkout <branch_name>
     Switch from current branch to another branch
@@ -113,7 +113,7 @@
     git checkout TestBranch
 
 >***Result:***
-
+![](/./Screenshots/checkout.png)
 
 ## 11. git merge
     Used to merge two branches.
@@ -123,7 +123,7 @@
     git merge TestBranch        # Merging TestBranch with main/master branch
 
 >***Result:***
-
+![](/./Screenshots/merge.png)
 
 ## 12. git revert 
     Create a new commit that undoes the all the changes made in given commit
@@ -135,17 +135,17 @@
     git revert [commit_id]      # undoes the changes of mentioned commitID
 
 >***Result***
-
+![](/./Screenshots/revert.png)
 
 ## 13. git remote add <name> <url>
     Create a new connection to a remote repo. After adding a remote, you can use <name> as a shortcut for <url> in other commands.
 
 ***Example***
 
-    git remote upstream https://repo_here
+    git remote add upstream https://repo_here
 
 >***Result***
-
+![](/./Screenshots/remote.png)
 
 ## 14. git pull
     Command used to retrive the latest changes in the repository done by other people.
@@ -156,7 +156,7 @@
 
 >***Result:***
 
-
+![](/./Screenshots/2022-10-13-22-25-12.png)
 ## 15. git push 
     Command is used to push the changes from remote repository to Git repo. 
 
@@ -165,6 +165,8 @@
     git push origin main
 
 >***Result:***
+![](/./Screenshots/push.png)
+
 
 
 
