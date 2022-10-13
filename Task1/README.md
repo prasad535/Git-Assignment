@@ -173,7 +173,7 @@
 
 >***Result:***
 
-![](/./Screenshots/2022-10-13-22-25-12.png)
+![](/./Screenshots/pull.png)
 ## 15. git push 
     Command is used to push the changes from remote repository to Git repo. 
 
