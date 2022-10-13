@@ -8,6 +8,7 @@
     git init
 
 > ***Result:***
+
 ![](/./Screenshots/init.png)
 
 ## 2. git clone [url]
@@ -18,6 +19,7 @@
     git clone 
 
 > ***Result:***
+
 ![](/./Screenshots/clone.png)
 
 ## 3. git config
@@ -32,6 +34,7 @@
         - configured author email address
 
 > ***Result:***
+
 ![](/./Screenshots/config.png)
 
 ## 4. git Status 
@@ -42,6 +45,7 @@
     git status
 
 > ***Result:***
+
 ![](/./Screenshots/status.png)
 
 ## 5. git add [file_name]
@@ -52,9 +56,13 @@
     git add test.txt   # adding file test.txt to staged area
 
 > ***Results:***
+
 ![](/./Screenshots/add.png)
+
     - Added test.txt to staged area
+
 ![](/./Screenshots/addAll.png)
+
     - Added all the new and modifiled files to staged area
 
 ## 6. git commit
@@ -68,6 +76,7 @@
     git commit -m 'This is my first commit'
 
 >***Result:***
+
 ![](/./Screenshots/commit.png)
 
 ## 7. git log
@@ -78,6 +87,7 @@
     git log
 
 >***Result:***
+
 ![](/./Screenshots/log.png)
 ## 8. git diff
     Command is used to disaply the unstaged changes your index and working directory.
@@ -88,6 +98,7 @@
     git diff [file_name]        # onlt changes to specific file
 
 >***Result:***
+
 ![](/./Screenshots/diff.png)
 
 ## 9. git branch 
@@ -102,7 +113,9 @@
     git branch TestBranch   # TestBranch is created
 
 >***Result:***
+
 ![](/./Screenshots/branch.png)
+
 ![](/./Screenshots/newbranch.png)
 
 ## 10. git checkout <branch_name>
@@ -113,6 +126,7 @@
     git checkout TestBranch
 
 >***Result:***
+
 ![](/./Screenshots/checkout.png)
 
 ## 11. git merge
@@ -123,6 +137,7 @@
     git merge TestBranch        # Merging TestBranch with main/master branch
 
 >***Result:***
+
 ![](/./Screenshots/merge.png)
 
 ## 12. git revert 
@@ -135,6 +150,7 @@
     git revert [commit_id]      # undoes the changes of mentioned commitID
 
 >***Result***
+
 ![](/./Screenshots/revert.png)
 
 ## 13. git remote add <name> <url>
@@ -145,6 +161,7 @@
     git remote add upstream https://repo_here
 
 >***Result***
+
 ![](/./Screenshots/remote.png)
 
 ## 14. git pull
@@ -165,6 +182,7 @@
     git push origin main
 
 >***Result:***
+
 ![](/./Screenshots/push.png)
 
 
