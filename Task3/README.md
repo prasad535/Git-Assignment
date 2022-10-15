@@ -30,3 +30,11 @@ Rejected pull request with comments.
 ```
 ![](../Screenshots/2022-10-15-09-56-34.png/)
 
+
+Step 6:
+```
+Adding comments fot stash the changes in TASK3 readme file.
+```
+![](/./Screenshots/2022-10-15-15-05-59.png)
+
+
