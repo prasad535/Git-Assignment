@@ -13,8 +13,8 @@ welcome.html is the one web page.
 prerequisites file include the things need to known first.
 ```
 
-Create 2 braches namely DeveloperBranch and TestBranch.
+***Task3:***
+```
+Task details explained in side TASK3 folder.
+```
 
-Just now loged into DeveloperBranch.
-
-Now iam logged using TestBranch.

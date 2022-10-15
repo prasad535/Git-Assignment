@@ -24,3 +24,9 @@ Merged the pull request data.
 ```
 ![](../Screenshots/2022-10-15-09-40-47.png/)
 
+step 5:
+```
+Rejected pull request with comments.
+```
+![](../Screenshots/2022-10-15-09-56-34.png/)
+
