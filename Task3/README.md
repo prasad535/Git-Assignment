@@ -6,13 +6,21 @@ Removed HEAD, <<<<<< and TestBranch from above snip.
 
 Commited changes. 
 
-Step 1: 
+Step 2: 
 ```
 Forked Git-Assignment
 ```
 ![](/./Screenshots/2022-10-15-09-05-48.png)
 
-Step 2:
+Step 3:
 ```
 Raising Pull Request
 ```
+![](../Screenshots/2022-10-15-09-42-05.png/)
+
+step 4:
+```
+Merged the pull request data.
+```
+![](../Screenshots/2022-10-15-09-40-47.png/)
+
